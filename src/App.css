@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#ulstyle li input[type="checkbox"]:checked + label{
+    text-decoration: line-through;
+    color: rgb(246, 37, 37);
+}
+.link{
+    color: rgb(255, 0, 179);
+    font-weight:bold ;
+}
